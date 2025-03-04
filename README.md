@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/danisharain253" target="blank"><img src="https://img.shields.io/twitter/follow/danisharain253?logo=twitter&style=for-the-badge" alt="danisharain253" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently doing **Data Science & AI Bootcamp**
 
-- 💬 Ask me about **Data science,Python,Feature enginerring,EDA,ML,AI,SQL**
+- 💬 Ask me about **Data science, Python, Feature enginerring, EDA, ML, AI, SQL, Power BI, Excel**
 
 - 📫 How to reach me **danisharain253@gmail.com**
 
