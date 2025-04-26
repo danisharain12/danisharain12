@@ -33,9 +33,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisharain12&show_icons=true&locale=en&layout=compact" alt="danisharain12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisharain12&show_icons=true&locale=en" alt="danisharain12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisharain12&" alt="danisharain12" /></p>
+<!--- ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=danisharain12&limit=5&theme=dark&combine_all_yearly_contributions=true) <br></br> ---> <p align="center"> <img width="800" height="220" src="https://streak-stats.demolab.com?user=danisharain12&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"> </p> 
+<p align="center"> <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=danisharain12&show_icons=true&theme=vision-friendly-dark"> <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisharain12&size_weight=0.5&count_weight=0.3&layout=compact&theme=vision-friendly-dark"> </p>
 
