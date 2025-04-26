@@ -32,3 +32,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisharain12&show_icons=true&locale=en&layout=compact" alt="danisharain12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisharain12&show_icons=true&locale=en" alt="danisharain12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisharain12&" alt="danisharain12" /></p>
+
