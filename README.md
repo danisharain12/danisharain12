@@ -14,6 +14,12 @@
 
 ## Portfolio Projects
 
+### Deep Learning Projects
+| Project | Tech Stack | Description | Link |
+|--------|------------|-------------|------|
+| **Credit Card Customer Churn Prediction using ANN** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Predict whether a customer will leave a bank using a deep learning model built with TensorFlow/Keras.. | [🔗 Project Link](https://github.com/danisharain12/Credit-Card-Customer-Churn-Prediction-Using-ANN/blob/main/Credit%20Card%20Customer%20Churn%20Prediction.ipynb) |
+
+
 ### Machine Learning Projects
 
 | Project | Tech Stack | Description | Link |
