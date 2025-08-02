@@ -14,6 +14,13 @@
 
 ## Portfolio Projects
 
+### NLP Projects
+| Project | Tech Stack | Description | Link |
+|--------|------------|-------------|------|
+| **AutoTagger Intelligent Question Tagging with Difficulty-Intent Detection** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![joblib](https://img.shields.io/badge/joblib-0085CA?style=for-the-badge) ![NLTK](https://img.shields.io/badge/NLTK-9E9E9E?style=for-the-badge&logo=nltk&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+ ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | AutoTagger is an AI-powered NLP system designed to enhance technical questions on platforms like StackOverflow or Quora | [🔗 Project Link](https://github.com/danisharain12/AutoTagger-Intelligent-Question-Tagging-with-Difficulty-Intent-Detection) |
+
 ### Deep Learning Projects
 | Project | Tech Stack | Description | Link |
 |--------|------------|-------------|------|
@@ -47,6 +54,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-9E9E9E?style=for-the-badge&logo=nltk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=green)
