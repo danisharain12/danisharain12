@@ -4,11 +4,10 @@
 ---
 
 ## ✨ About Me
--  I’m currently working on Machine Learning and Deep Learning projects.
+-  I’m currently working at Askari Bank Ltd as a Data Analyst.
 -  Interested in AI, Model Building, Data Storytelling, and Python-based ML solutions.
 -  Ask me about anything related to ML, DL, Data Analysis, or Python!
 -  Reach me at: **danisharain253@gmail.com**
--  Pronouns: He/Him
 
 ---
 
